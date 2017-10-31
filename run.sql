@@ -26,3 +26,6 @@ INSERT INTO candies (name, size, house_id) VALUES
   ('Peanut Butter Cups', 'small', 2),
   ('Skittles', 'large', 1),
   ('Starbursts', 'medium', 3);
+
+SELECT * FROM houses;
+SELECT * FROM candies;
